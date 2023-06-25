@@ -17,4 +17,4 @@
 | Lesson | Link |
 |--------|------|
 | Lesson 1: How to run, variables and comments | [Lesson 1](./basic-javascript-f8/lesson-1/README.md) |
-| Lesson 2: Math operators and data types | [Lesson 2](./basic-javascript-f8/lesson-2/README.md) |
+| Lesson 2: Operators and data types | [Lesson 2](./basic-javascript-f8/lesson-2/README.md) |
