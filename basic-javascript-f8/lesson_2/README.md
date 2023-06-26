@@ -12,7 +12,7 @@
 9. [Variables](#9-variables)
 10. [Truthy and Falsy](#10-truthy-and-falsy)
 
-
+-----
 ## 1. Arithmetic Operators
 | Operators  |   Syntax   |
 |------------|------------|
