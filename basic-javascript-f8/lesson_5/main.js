@@ -48,7 +48,7 @@ console.log(Number.isSafeInteger(num1)); // (Method) Returns true if the value p
 
 console.log(Number.isNaN(num1)); // (Method) Returns a Boolean value that indicates whether a value is the reserved value NaN (not a number). Unlike the global isNaN(), Number.isNaN() doesn't forcefully convert the parameter to a number. Only values of the type number, that are also NaN, result in true.
 console.log(Number.isNaN(helloWorld));
-console.log(isNaN(helloWorld));
+console.log(isNaN(helloWorld)); // (Function) Returns a Boolean value that indicates whether a value is the reserved value NaN (not a number).
 console.log("\n");
 
 console.log(Number.EPSILON);

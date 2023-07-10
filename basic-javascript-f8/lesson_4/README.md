@@ -49,7 +49,7 @@
 | 26 | `replace()` | Method | Replaces first text or character in a string, using a regular expression or search string | | Replace first character in a string |
 | 27 | `replaceAll()` | Method | Replaces all text or character in a string, using a regular expression or search string | | Replace all character in a string |
 | 28 | `match()` | Method | Matches a string with a regular expression, and returns an array containing the results of that search | | | Check if the string consists of checking expression |
-| 29 | `localeCompare()` | Method | Determines whether two strings are equivalent in the current or specified locale | One of 3 return values: -1 if the string is sorted before the compareString; 0 if the two strings are equal; 1 if the string is sorted after the compareString |
+| 29 | `localeCompare()` | Method | Determines whether two strings are equivalent in the current or specified locale | One of 3 return values: `-1` if the string is sorted before the compareString; `0` if the two strings are equal; `1` if the string is sorted after the compareString |
 | 30 | `toLowerCase()` | Method | Converts all the alphabetic characters in a string to lowercase | |
 | 31 | `toUpperCase()` | Method | Converts all the alphabetic characters in a string to uppercase | |
 | 32 | `toLocaleLowerCase()` | Method | Converts all alphabetic characters to lowercase, taking into account the host environment's current locale | |
