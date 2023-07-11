@@ -20,6 +20,8 @@
 | Lesson 2: Operators and data types | [Lesson 2](./basic-javascript-f8/lesson_2/README.md) |
 | Lesson 3: Functions | [Lesson 3](./basic-javascript-f8/lesson_3/README.md) |
 | Lesson 4: Strings | [Lesson 4](./basic-javascript-f8/lesson_4/README.md) |
+| Lesson 5: Numbers | [Lesson 5](./basic-javascript-f8/lesson_5/README.md) |
+| Lesson 6: Arrays | [Lesson 6](./basic-javascript-f8/lesson_6/main.js) |
 
 ### 2. [Material](./basic-javascript-f8/material/)
 
