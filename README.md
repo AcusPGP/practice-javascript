@@ -22,9 +22,13 @@
 | Lesson 4: Strings | [Lesson 4](./basic-javascript-f8/lesson_4/README.md) |
 | Lesson 5: Numbers | [Lesson 5](./basic-javascript-f8/lesson_5/README.md) |
 | Lesson 6: Arrays | [Lesson 6](./basic-javascript-f8/lesson_6/README.md) |
+| Lesson 7: Object | [Lesson 7](./basic-javascript-f8/lesson_7/README.md) |
 
 ### 2. [Material](./basic-javascript-f8/material/)
 
 | Documents | Link |
 |--------|------|
-| var, let and const | [click here](./basic-javascript-f8/material/VarLetConst.md)
+| Var, let and const | [click here](./basic-javascript-f8/material/VarLetConst.md) |
+| Sorted array | [Click here](./basic-javascript-f8/lesson_6/sortArray.js) |
+| Function in an object | [Click here](./basic-javascript-f8/lesson_7/FunctionInObject.md) |
+| Get dates in JS | [Click here](./basic-javascript-f8/lesson_7/getDatesInJS.png) |
