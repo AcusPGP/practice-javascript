@@ -23,6 +23,7 @@
 | Lesson 5: Numbers | [Lesson 5](./basic-javascript-f8/lesson_5/README.md) |
 | Lesson 6: Arrays | [Lesson 6](./basic-javascript-f8/lesson_6/README.md) |
 | Lesson 7: Object | [Lesson 7](./basic-javascript-f8/lesson_7/README.md) |
+| Lesson 8: Tenary operator | [Lesson 8](./basic-javascript-f8/lesson_8/README.md) |
 
 ### 2. [Material](./basic-javascript-f8/material/)
 
