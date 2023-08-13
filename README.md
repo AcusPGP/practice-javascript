@@ -24,6 +24,8 @@
 | Lesson 6: Arrays | [Lesson 6](./basic-javascript-f8/lesson_6/README.md) |
 | Lesson 7: Object | [Lesson 7](./basic-javascript-f8/lesson_7/README.md) |
 | Lesson 8: Tenary operator | [Lesson 8](./basic-javascript-f8/lesson_8/README.md) |
+| Lesson 9: Loops | [Lesson 9](./basic-javascript-f8/lesson_9/README.md) |
+| Lesson 9 (Cont): Recursive | [Lesson 9](./basic-javascript-f8/lesson_9/recursive.js) |
 
 ### 2. [Material](./basic-javascript-f8/material/)
 
