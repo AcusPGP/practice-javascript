@@ -48,3 +48,90 @@ console.log(languages);
 
 console.log(languages.slice(1)); // (Method) Returns a copy of a section of an array. For both start and end, a negative index can be used to indicate an offset from the end of the array. For example, -2 refers to the second to last element of the array.
 console.log(languages.slice(0, 2));
+
+/**
+ * This part is learned after lesson 7,8 and 9
+ */
+console.log("\n");
+// filter - array with duplicated elements
+var numbers = [1, 2, 3, 4, 1, 2, 3, 5, 3];
+console.log(numbers.filter((value, index, self) => {
+     return self.indexOf(value) === index;
+}));
+
+// forEach
+var courses = [
+     {
+          id: 1,
+          name: "Java",
+          coin: 250          
+     }, 
+     {
+          id: 2,
+          name: "Python",
+          coin: 200 
+     },
+     {
+          id: 3,
+          name: "C++",
+          coin: 200 
+     }
+]
+
+courses.forEach((course, index) => {
+     console.log(course, index);
+});
+
+// every - check every elements with one condition: all true -> true; one false -> false
+var isFree = courses.every((course, index) => {
+     console.log(index);
+     return course.coin > 0
+});
+console.log(isFree);
+
+// some - check only one element with one condition: one true -> true
+var isFree = courses.some((course, index) => {
+     console.log(index);
+     return course.coin > 0
+});
+console.log(isFree);
+
+// find - find an element with one condition
+var isFree = courses.find((course, index) => {
+     console.log(index);
+     return course.coin == 200;
+});
+console.log(isFree);
+
+// filter - find multiple element with one condition
+var isFree = courses.filter((course, index) => {
+     console.log(index);
+     return course.coin == 200;
+});
+console.log(isFree);
+
+// map - alter the value of an
+var newCourses = courses.map(courseHandler);
+function courseHandler(course, index, originalArr) {
+     return {
+          name: `course = ${course.name}`,
+          index: index,
+          originalArr: originalArr // or courses
+     }
+};
+console.log(newCourses);
+
+// reduce
+var i = 0;
+function coinHandler(accumulator, currentValue, currentIndex, originArray) {
+     i++;
+     console.table({
+          "Lượt chạy": i,
+          "Biến lưu trữ": accumulator,
+          "Giá trị hiện tại": currentValue,
+          "Vị trí hiện tại": currentIndex,
+     });
+     return accumulator + currentValue.coin;
+}
+console.log(courses.reduce(coinHandler, 0));
+
