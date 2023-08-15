@@ -26,6 +26,7 @@
 | Lesson 8: Tenary operator | [Lesson 8](./basic-javascript-f8/lesson_8/README.md) |
 | Lesson 9: Loops | [Lesson 9](./basic-javascript-f8/lesson_9/README.md) |
 | Lesson 9 (Cont): Recursive | [Lesson 9](./basic-javascript-f8/lesson_9/recursive.js) |
+| Lesson 10: Callback | [Lesson 10](./basic-javascript-f8/lesson_10/main.js) |
 
 ### 2. [Material](./basic-javascript-f8/material/)
 
