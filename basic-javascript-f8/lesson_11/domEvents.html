@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Lesson 11: HTML DOM</title>
+</head>
+<body>
+     <h1 onclick="console.log(this)" class="heading1">
+          <span>DOM Events 1</span> <!--Sự kiện nổi bọt-->
+     </h1>
+
+     <h1 onclick="console.log(this)" class="heading2">
+          <span onclick="console.log(this)">DOM Events 2</span> <!--Sự kiện nổi bọt-->
+     </h1>
+
+     <button style="width: 100px; height: 100px;" id="button">CLICK ME</button>
+
+     
+     <script src="./domEvents.js"></script>
+</body>
+</html>
