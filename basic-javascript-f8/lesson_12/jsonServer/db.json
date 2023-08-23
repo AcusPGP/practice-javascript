@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Java",
+      "description": "ABC"
+    },
+    {
+      "id": 2,
+      "name": "JavaScript",
+      "description": "ABC"
+    },
+    {
+      "name": "Rust",
+      "description": "ABC",
+      "id": 3
+    }
+  ]
+}

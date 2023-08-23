@@ -27,6 +27,8 @@
 | Lesson 9: Loops | [Lesson 9](./basic-javascript-f8/lesson_9/README.md) |
 | Lesson 9 (Cont): Recursive | [Lesson 9](./basic-javascript-f8/lesson_9/recursive.js) |
 | Lesson 10: Callback | [Lesson 10](./basic-javascript-f8/lesson_10/main.js) |
+| Lesson 11: HTML Dom | [Lesson 11](./basic-javascript-f8/lesson_11/getElement1.js) |
+| Lesson 12: JSON, Fetch, Postman | [Lesson 12](./basic-javascript-f8/lesson_12/README.md) |
 
 ### 2. [Material](./basic-javascript-f8/material/)
 
@@ -36,3 +38,4 @@
 | Sorted array | [Click here](./basic-javascript-f8/lesson_6/sortArray.js) |
 | Function in an object | [Click here](./basic-javascript-f8/lesson_7/FunctionInObject.md) |
 | Get dates in JS | [Click here](./basic-javascript-f8/lesson_7/getDatesInJS.png) |
+| HTML DOM Event Objects | [Click here](./basic-javascript-f8/material/HTML%20DOM%20Event%20Object.pdf) |
