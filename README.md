@@ -29,6 +29,7 @@
 | Lesson 10: Callback | [Lesson 10](./basic-javascript-f8/lesson_10/main.js) |
 | Lesson 11: HTML Dom | [Lesson 11](./basic-javascript-f8/lesson_11/getElement1.js) |
 | Lesson 12: JSON, Fetch, Postman | [Lesson 12](./basic-javascript-f8/lesson_12/README.md) |
+| Lesson 13: ECMAScript 6+ | [Lesson 13](./basic-javascript-f8/lesson_13/README.md) |
 
 ### 2. [Material](./basic-javascript-f8/material/)
 
